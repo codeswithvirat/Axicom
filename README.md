@@ -1,9 +1,6 @@
-# Library-Management-System-Project
+# Library-Management-System-Project Made By Virat Tripathi
 
 A library management system is software that is designed to manage all the functions of a library. It helps librarian to maintain the database of new books and the books that are borrowed by members along with their due dates.
-
-
-![loading](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/31d70921-d5ab-4fd7-907f-61e68e28da49)
 
 ![login](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/7668e6d6-eed4-43e4-8dfa-a54c0b37d359)
 
